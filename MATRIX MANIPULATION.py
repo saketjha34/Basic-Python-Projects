@@ -171,17 +171,3 @@ Hey User Welcome To This Matrix Applicaton or 'q' to quit or 'replay' to restart
             mainloop = False
             print("Thanks!")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,4 +1,10 @@
-
+'''
+     *
+    **
+   ***
+  ****
+ *****
+'''
 def pattern(n):
     for i  in range(n):
 
@@ -9,5 +15,6 @@ def pattern(n):
             print('*' , end = '')
         print()
 
-n = int(input('Enter Number'))
-pattern(n)
+if __name__ == '__main__':
+    n = int(input('Enter Number'))
+    pattern(n)
